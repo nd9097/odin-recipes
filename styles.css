@@ -1,0 +1,12 @@
+/* styles.css */
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+h1 {
+  color: black;
+  background-color:rgba(121, 103, 103, 0.3);
+}
+
