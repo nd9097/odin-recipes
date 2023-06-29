@@ -1,2 +1,2 @@
 # odin-recipes
-A collection of recipes and a showcase of HTML, CSS and JS skills.
+A collection of recipes for the perfect Sunday lunch. Best finished with a siesta.
