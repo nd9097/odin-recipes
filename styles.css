@@ -1,38 +1,60 @@
 /* styles.css */
 
-img {
-  height: auto;
-  width: 500px;
-}
-
-.h1,
-.h2 {
-  color: black;
-  display: block;
-  box-sizing: border-box;
-  background-color:rgba(55, 160, 73, 0.363);
-  border-radius: 10px;
-  font-size: 40px;
-  padding: 10px;
-  margin: 20px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
   text-align: center;
-  
+  font-family: Signika, Verdana, Tahoma, sans-serif;
 }
 
+.heading{
+  font-size: 48px;
+  font-weight: bold;
+  color: #2E7116;
+  display: block;
+  border: 20px;
+  border-style: groove;
+  border-radius: 10%;
+  border-color: rgb(13, 1, 24);
+  margin: 20px;
+  padding: 40px;
+   }
 
 .h2 {
-  font-size: 30px;
-}
+  font-size: 24px;
+  color: black
+  display: block;
+  margin: 20px;
+  padding: 20px;
+  }
 
 ul {
-  color: black;
   list-style: none;
-  background-color:rgba(121, 62, 62, 0.3);
-  border-radius: 10px;
-  font-size: 30px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #2E7116;
+  margin: 10px;
   padding: 10px;
-  margin: 20px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center;
-}
+  }
+
+a:link {
+  color: #2E7116;
+  background-color: transparent;
+  text-decoration: underline;
+  }
+    
+a:visited {
+  color: #2E7116;
+  background-color: transparent;
+  text-decoration: underline;
+  }
+    
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+  }
+    
+a:active {
+  color: #2E7116;
+  background-color: transparent;
+   }
+
