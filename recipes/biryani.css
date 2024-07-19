@@ -1,0 +1,40 @@
+/* styles.css */
+
+* {
+  font-family: Signika, Verdana, Tahoma, sans-serif;
+  background-color:antiquewhite;
+  font-size: 16px;
+}
+
+p, h2, h1 {
+  text-align: center;
+}
+
+h1{
+  font-size: 72px;
+  color: #2E7116;
+  border: 20px;
+  border-style: groove;
+  border-radius: 10%;
+  border-color: rgb(13, 1, 24);
+  
+}
+
+h2 {
+  font-size: 72px;
+  color: black;
+  display: block;
+  margin: 20px;
+  padding: 20px;
+  
+  }
+
+ul {
+  list-style: none;
+  font-size: 24px;
+  font-weight: bold;
+  color: #2E7116;
+  margin: 10px;
+  padding: 10px;
+  }
+
